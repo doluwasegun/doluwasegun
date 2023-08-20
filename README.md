@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **R and SQL**
 
-- 💬 Ask me about **Data sciennce and collaborations**
+- 💬 Ask me about **Data science and collaborations**
+- - 👯 I’m looking to collaborate on **Data science Projects**
+
+- 🤝 I’m looking for help with **Job Offers**
 
 - 📫 How to reach me **iremirendoluwasegun@gmail.com**
 
